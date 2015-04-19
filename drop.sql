@@ -1,0 +1,3 @@
+DROP TABLE stars;
+DROP TABLE users;
+DROP TABLE orgs;
